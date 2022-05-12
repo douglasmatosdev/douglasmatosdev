@@ -66,6 +66,6 @@
 </div>
  
  
-![Snake animation](https://github.com/douglasmatosdev/douglasmatosdev/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/douglasmatosdev/douglasmatosdev/blob/output/github-contribution-grid-snake.svg) -->
 
  
