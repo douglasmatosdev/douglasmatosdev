@@ -5,12 +5,6 @@
 - 🌱 I’m currently learning PWA, back-end, Java, spring, spring boot
 - 😄 Pronouns: He/Him
 
- <div align="center">
-  <a href="https://github.com/douglasmatosdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasmatosdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmatosdev&layout=compact&langs_count=100&theme=dracula"/>
-</div>
- 
  <br/>
 <h2>Languages and tools</h2>
  <div style="display: inline_block" align="center">
