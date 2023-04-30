@@ -59,7 +59,7 @@
   </a> 
  
  <a href="https://twitter.com/devdouglasmatos" target="_blank">
-  <img src="https://img.shields.io/twitter/url?style=social" target="_blank" />
+  <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&color=blue&logo=twitter&logoColor=white" target="_blank" />
  </a>
 </div>
  
