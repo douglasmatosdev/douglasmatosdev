@@ -57,6 +57,10 @@
  <a href="https://web.whatsapp.com/send?phone=5521994642132" target="_blank">
    <img src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&color=yellow&logo=whatsapp&logoColor=white" target="_blank">
   </a> 
+ 
+ <a href="https://twitter.com/devdouglasmatos" target="_blank">
+  <img src="https://img.shields.io/twitter/url?style=social" target="_blank" />
+ </a>
 </div>
  
  
