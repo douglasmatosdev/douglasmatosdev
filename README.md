@@ -65,6 +65,11 @@
   <a href="https://www.facebook.com/devdouglasmatos/" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&color=blue&logo=facebook&logoColor=white" target="_blank" />
  </a>
+ 
+  <a href="https://discordapp.com/users/douglasmatosdev#8237" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&color=blue&logo=discord&logoColor=white" target="_blank" />
+ </a>
+ 
 </div>
  
  
