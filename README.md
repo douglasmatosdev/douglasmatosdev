@@ -70,6 +70,9 @@
   <img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&color=blue&logo=discord&logoColor=white" target="_blank" />
  </a>
  
+ <a href="https://t.me/+5521994642132" target="_blank">
+ <img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&color=blue&logo=telegram&logoColor=white" target="_blank" />
+ </a>
 </div>
  
  
